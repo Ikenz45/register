@@ -1,0 +1,10 @@
+{
+  "owner": "ikenz45",
+  "repo": "register",
+  "path": "domains/GameHive.json",
+  "target": {
+    "type": "CNAME",
+    "value": "kenzhub.github.io"
+  },
+  "proxied": false
+}
